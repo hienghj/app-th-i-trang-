@@ -1,0 +1,7 @@
+{
+  "name": "FashionAI Studio",
+  "description": "A high-end fashion video and image creation platform using Gemini and Veo 3.1 technologies. Create virtual try-ons and stunning 9:16 fashion videos.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
